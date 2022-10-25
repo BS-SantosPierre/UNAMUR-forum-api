@@ -7,3 +7,8 @@ class SuccessObjectResponse {
 class SuccessArrayResponse {
 
 }
+
+module.exports = {
+	SuccessArrayResponse,
+	SuccessObjectResponse,
+};

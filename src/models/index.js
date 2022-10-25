@@ -23,9 +23,5 @@ const db = {};
 // Add instance of Sequelize
 db.sequelize = sequelize;
 
-// Add Models
-
-// Add Association
-
 // Export object DB
 module.exports = db;
