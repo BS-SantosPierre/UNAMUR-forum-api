@@ -15,7 +15,7 @@ Stackoverflow like API
 ###  Subject
 
 - Seul les membres connecté peuvent créer un sujet.
-- Un sujet possède plusieurs catégories et inversement plusieurs category peuvent être associé à un sujet.
+- Un sujet possède plusieurs catégories et inversement plusieurs category peuvent être associé à plusieurs sujets.
 
 ### Message
 
